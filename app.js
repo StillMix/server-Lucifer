@@ -26,8 +26,8 @@ const DEFAULT_ALLOWED_METHODS = "GET,HEAD,PUT,PATCH,POST,DELETE";
 
 const allowedCors = [
   "http://localhost:3000",
-  "http://smfrtontendmesto.nomoredomains.rocks",
-  "https://smfrtontendmesto.nomoredomains.rocks",
+  "http://main--lucifers.netlify.app/",
+  "https://main--lucifers.netlify.app",
 ];
 
 mongoose.connect(
